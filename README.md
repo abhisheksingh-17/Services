@@ -23,17 +23,26 @@ To integrate the Services Section into your website, you can either clone this r
 
 Clone the Repository:
 
-1.Open your terminal or command prompt.
+ - Open your terminal or command prompt.
 
-2.Navigate to the directory where you want to include the Services Section in your project.
+ - Navigate to the directory where you want to include the Services Section in your project.
 
-3.Clone this repository by running the following command:
+ - Clone this repository by running the following command:
 
 ```bash
 git clone https://github.com/abhisheksingh-17/Landing-Page-Section.git
 
 ```
-4.Once the cloning process is complete, you'll have a local copy of the project.
+ - Once the cloning process is complete, you'll have a local copy of the project.
+
+ - Navigate to the Project Folder:
+
+Change your working directory to the "Technology Stack Section" folder within the "Landing Page Section" repository:
+
+```bash
+cd "Landing-Page-Section-Main/Services Section"
+```
+ - Open the Project: Use your preferred code editor to open the project files.
 
 2.Explore and Customize: Once the repository is cloned, you can explore the project files, including index.html and style.css. Customize the footer to fit your specific website's design and content requirements.
 
@@ -197,7 +206,6 @@ The "Services Section" project provides a solid foundation for showcasing servic
 
  - Performance Optimization: Continuously optimize the code and assets to ensure fast loading times and an excellent user experience.
 
-Remember that the Services Section is a dynamic aspect of your website that should evolve along with your business and user needs. Regularly assess and update it to keep it fresh and engaging for your audience.
 
 
 ## Contributing
