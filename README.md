@@ -99,7 +99,7 @@ I am committed to maintaining this project and ensuring its continuous improveme
 
 The "Services Section" project utilizes the following technologies and tools:
 
- - HTML (Hypertext Markup Language: HTML is the core markup language used to structure and define the content of web pages. In this project, HTML is employed to create the layout and structure of the Services Section.
+ - HTML (Hypertext Markup Language): HTML is the core markup language used to structure and define the content of web pages. In this project, HTML is employed to create the layout and structure of the Services Section.
 
  - CSS (Cascading Style Sheets): CSS is used for styling and formatting the Services Section. The "style.css" file contains the CSS rules that define the visual appearance of the section, including fonts, colors, and layout.
 
