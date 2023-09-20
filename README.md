@@ -8,15 +8,15 @@ This project aims to simplify the process of adding a Services Section to your w
 
 ## Table Of Contents
 
- - [Installation]()
- - [Usage]()
- - [Acknowledgements]()
- - [Technologies Used]()
- - [Code Description]()
- - [Screenshots]()
- - [Future Scope]()
- - [Contributing]()
- - [License]()
+ - [Installation](https://github.com/abhisheksingh-17/Services/blob/main/README.md#installation)
+ - [Usage](https://github.com/abhisheksingh-17/Services/tree/main#usage)
+ - [Acknowledgements](https://github.com/abhisheksingh-17/Services/tree/main#acknowledgements)
+ - [Technologies Used](https://github.com/abhisheksingh-17/Services/tree/main#technologies-used)
+ - [Code Description](https://github.com/abhisheksingh-17/Services/tree/main#code-description)
+ - [Screenshots](https://github.com/abhisheksingh-17/Services/tree/main#screenshots)
+ - [Future Scope](https://github.com/abhisheksingh-17/Services/tree/main#future-scope)
+ - [Contributing](https://github.com/abhisheksingh-17/Services/tree/main#contributing)
+ - [License](https://github.com/abhisheksingh-17/Services/tree/main#license)
 ## Installation
 
 To integrate the Services Section into your website, you can either clone this repository or download the code as a ZIP file. Here are the two options:
@@ -74,12 +74,6 @@ Running Your Website-
  - Navigate to the local directory where your website project is stored.
 
  - Double-click the "index.html" file to open it in your web browser. Alternatively, you can use a local development server to run your website if you have one set up.
-
- - If you run through command:
- 
- ```bash
- start index.html
- ```
 
  - Your website with the new Services Section should now be displayed in your web browser.
 
