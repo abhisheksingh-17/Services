@@ -37,7 +37,7 @@ git clone https://github.com/abhisheksingh-17/Landing-Page-Section.git
 
  - Navigate to the Project Folder:
 
-Change your working directory to the "Technology Stack Section" folder within the "Landing Page Section" repository:
+Change your working directory to the "Services Section" folder within the "Landing Page Section" repository:
 
 ```bash
 cd "Landing-Page-Section-Main/Services Section"
