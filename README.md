@@ -159,17 +159,18 @@ This project's codebase is organized into the following key components and funct
 Footer Section-
 
  - Services Section-
+
 ![](https://github.com/abhisheksingh-17/Services/blob/main/Results/1.png?raw=true)
 
 - Cursor Pointing Effects-
-![](https://github.com/abhisheksingh-17/Services/blob/main/Results/2.png?raw=true)
 
-![](https://github.com/abhisheksingh-17/Services/blob/main/Results/3.png?raw=true)
+![](https://github.com/abhisheksingh-17/Services/raw/main/Results/2.png?raw=true)
 
 - Responsive-
-![](https://github.com/abhisheksingh-17/Services/blob/main/Results/4.png?raw=true)
 
-![](https://github.com/abhisheksingh-17/Services/blob/main/Results/5.png?raw=true)
+![](https://github.com/abhisheksingh-17/Services/raw/main/Results/3.png?raw=true)
+
+![](https://github.com/abhisheksingh-17/Services/raw/main/Results/5.png?raw=true)
 ## Future Scope
 
 The "Services Section" project provides a solid foundation for showcasing services on your website, but there's always room for improvement and expansion. Here are some potential areas for future enhancements and customization:
