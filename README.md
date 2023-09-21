@@ -101,7 +101,7 @@ I would like to express our gratitude to the open-source community for their con
 
  - Web Development Community: I want to thank the web development community for sharing knowledge, tutorials, and best practices. It has been a valuable resource in creating a robust and well-structured Services Section.
 
- - Contributors: We extend our thanks to any contributors who have helped improve this project. Your input and suggestions are highly valued.
+ - Contributors: I extend my thanks to any contributors who have helped improve this project. Your input and suggestions are highly valued.
 
 I am committed to maintaining this project and ensuring its continuous improvement. If you'd like to contribute or provide feedback, please feel free to get involved. Together, we can make this project even better! 
 ## Technologies Used
